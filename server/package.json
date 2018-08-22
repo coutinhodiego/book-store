@@ -1,0 +1,19 @@
+{
+  "name": "books-store",
+  "version": "1.0.0",
+  "description": "A Ecommerce project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Diego Coutinho diegocoutinho@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "fs": "0.0.1-security",
+    "mongoose": "^5.2.9"
+  },
+  "devDependencies": {}
+}
