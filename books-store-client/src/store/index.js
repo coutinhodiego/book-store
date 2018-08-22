@@ -40,6 +40,6 @@ export const store = new Vuex.Store({
           return book._id === bookId
         })
       }
-    } 
+    }
   }
 })

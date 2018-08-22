@@ -29,7 +29,7 @@
           <div class="col-12 col-lg-6 d-flex justify-content-center">
             <img :src="urlImage" class="image-loaded" alt="">
           </div>
-        </div>        
+        </div>
       </form>
   </div>
 </template>
@@ -78,7 +78,7 @@ export default {
 </script>
 
 <style scoped>
-  
+
   .image-file-load {
     position: relative;
     z-index: 2;

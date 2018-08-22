@@ -79,14 +79,14 @@ export default {
     }
   },
   mounted () {
-      let book = this.$store.getters.upBook
-      this.upImageName = book.imgName
-      this.upName = book.name
-      this.upPrice = book.price
-      this.upSinopse = book.sinopse
-      this.id = book._id
-      this.upImage = book.image
-      this.upUrlImage = book.urlImage
+    let book = this.$store.getters.upBook
+    this.upImageName = book.imgName
+    this.upName = book.name
+    this.upPrice = book.price
+    this.upSinopse = book.sinopse
+    this.id = book._id
+    this.upImage = book.image
+    this.upUrlImage = book.urlImage
   }
 }
 </script>
@@ -122,4 +122,3 @@ export default {
     }
   }
 </style>
-

@@ -6,7 +6,6 @@ import ListBooksAdm from '@/components/ListBooksAdm'
 import BookDetail from '@/components/BookDetail'
 import Cadastro from '@/components/Cadastro'
 
-
 Vue.use(Router)
 
 export default new Router({

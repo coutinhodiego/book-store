@@ -6,7 +6,6 @@ import axios from 'axios'
 import VueAxios from 'vue-axios'
 import BootstrapVue from 'bootstrap-vue'
 
-
 import 'material-design-icons/iconfont/material-icons.css'
 
 import 'bootstrap/dist/css/bootstrap.css'

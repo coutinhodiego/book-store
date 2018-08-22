@@ -6,7 +6,7 @@
         <h3>{{book.name}}</h3>
         <p>Price : ${{book.price}}</p>
         <div class="form-group">
-          <img :src="book.urlImage" class="image-loaded" alt="">      
+          <img :src="book.urlImage" class="image-loaded" alt="">
         </div>
         <a @click="goBack" class="btn btn-second d-flex justify-content-center">
           <i class="material-icons">
@@ -55,4 +55,3 @@ export default {
     text-align: justify;
   }
 </style>
-

@@ -24,7 +24,7 @@ export default {
     }
   },
   components: {
-    'list-books' : ListBooks
+    'list-books': ListBooks
   },
   methods: {
     onLoadBook (id) {

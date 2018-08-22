@@ -33,7 +33,7 @@
       <router-view/>
     </main>
     <footer>
-      <div class="footer mt-1">
+      <div class="footer mt-4">
         <p>Dev by Diego Coutinho</p>
         <ul class="footer__list">
           <!-- <li class="footer__list-item">
@@ -75,7 +75,6 @@ export default {
     display: flex;
     flex-flow: column;
     align-content: center;
-    
   }
 
   .footer__list-item {
@@ -84,7 +83,7 @@ export default {
     display: flex;
     justify-content: center;
   }
-  
+
   .footer__list-item a {
     color: white;
     margin: 0 5px;
