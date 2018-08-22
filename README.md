@@ -1,4 +1,4 @@
-# Books-store-client
+# Books-store Project
 
 Um projeto de uma loja virtual ficticia
 Desenvolvido: em Vue.js no Front-End e Node.js, Express e Mongo.DB no Back-End.
