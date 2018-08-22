@@ -23,8 +23,17 @@ npm run dev
 
 ## Back-End Setup
 
-``` bash
+
+
+``` 
+#intall mongoDB Community Server
+https://www.mongodb.com/download-center?jmp=nav#community
+
+bash
 /server
+
+#run mongoDB
+mongod
 
 # install dependencies
 npm install
